@@ -36,7 +36,6 @@ pyxdg==0.25
 reportlab==3.3.0
 requests==2.18.1
 six==1.10.0
-system-service==0.3
 tempora==1.8
 ubuntu-drivers-common==0.0.0
 ufw==0.35
