@@ -37,7 +37,6 @@ reportlab==3.3.0
 requests==2.18.1
 six==1.10.0
 tempora==1.8
-ufw==0.35
 unattended-upgrades==0.1
 unity-scope-calculator==0.1
 unity-scope-chromiumbookmarks==0.1
